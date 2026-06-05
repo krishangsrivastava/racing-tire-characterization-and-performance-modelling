@@ -16,7 +16,7 @@ The primary objectives of this project were:
 - Investigate self-aligning moment behaviour
 - Extract meaningful tire performance parameters
 - Develop a stronger understanding of racing tire behaviour through data analysis
-- 
+  
 ## Dataset
 The analysis was performed using experimental racing tire test data obtained from controlled tire testing procedures.
 Key parameters available in the dataset included:
@@ -29,7 +29,7 @@ Key parameters available in the dataset included:
 - Tire Pressure
 - Wheel Speed
 - Tire Surface Temperatures
-- 
+  
 ## Methodology
 The analysis followed a structured workflow:
 1. Dataset investigation and data quality assessment
@@ -68,22 +68,20 @@ The variation of self-aligning moment with slip angle was studied to understand 
 - Cornering stiffness increased with vertical load
 - Peak self-aligning moment occurred before peak lateral force
 - Maximum steering feedback occurred before maximum available grip
-- 
+  
 ## Tools Used
 - MATLAB
 - Vehicle Dynamics Principles
 - Experimental Tire Data Analysis
 - Data Visualization
 - Engineering Interpretation
-- 
+  
 ## Repository Contents
 ```text
 Report/
     Racing_Tire_Characterization_Report.pdf
 MATLAB_Code/
     Tire analysis scripts
-Figures/
-    Generated plots and visualizations
 
 ## Future Work
 This project establishes the foundation for future studies involving:
